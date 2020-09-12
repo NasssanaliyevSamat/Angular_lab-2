@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"min",
+				"minlength\tAttr"
+			],
+			[
+				"do",
+				"document"
+			],
+			[
+				"dow",
+				"downBounce"
+			],
+			[
+				"tim",
+				"times"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"s",
+				"speed"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"b",
+				"background\tproperty"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"tr",
+				"transparent\tborder"
+			],
+			[
+				"bor",
+				"border-top\tproperty"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"pos",
+				"position\tproperty"
+			],
+			[
+				"a",
+				"absolute\tposition"
+			],
+			[
+				"c",
+				"currentNode"
+			],
+			[
+				"text",
+				"text-rendering\tproperty"
+			],
+			[
+				"bac",
+				"background-image\tproperty"
+			],
+			[
+				"tot",
+				"totalSecond"
+			],
+			[
+				"fix",
+				"fixScore"
+			],
+			[
+				"get",
+				"getCoin"
+			],
+			[
+				"fli",
+				"flipFirst"
+			],
+			[
+				"co",
+				"const"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/OSPanel/domains/game/rule.txt",
+		"/C/OSPanel/domains/game/main.js",
+		"/C/OSPanel/domains/game/main.css",
+		"/C/OSPanel/domains/game/index.html",
+		"/C/Users/User/Desktop/AspNet/game/main.css",
+		"/C/Users/User/Desktop/AspNet/game/index.html",
+		"/C/Users/User/Desktop/AspNet/game/main.js",
+		"/C/Users/User/Desktop/AspNet/asp.net lab2/main.js",
+		"/C/Users/User/Desktop/AspNet/game/img/icons8-открыть-pokeball-45.png",
+		"/C/Users/User/Desktop/asp.net lab2/main.html",
+		"/C/Users/User/Desktop/asp.net lab2/main.js",
+		"/C/Users/User/Desktop/asp/main.js",
+		"/C/Users/User/Desktop/asp/1.css",
+		"/C/Users/User/Desktop/asp/index1.html",
+		"/C/Users/User/Desktop/asp/a.jpeg"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
